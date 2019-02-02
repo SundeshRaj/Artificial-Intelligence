@@ -4,8 +4,7 @@ Name : Sundesh Raj
 Course: CSE-5360-002
 UTAID : 1001633297
 
-The ZIP file consists of the source code and the compiled classes along with an Executable JAR files named "find_route.jar"
---Zip file contents--
+--Contents--
 /.settings
 /bin
 /src/com/sundesh/ai/hw1/FindRoute.java
@@ -41,12 +40,6 @@ Execution sequence:
 3. The Uninformed search is handled in the Travers.startInformerdSearch() method
 4. The comparators for sorting the fringe is handled in the NodeCompare class
 5. The Graph Node is handled in the NodeUtils class
-
-Citations:
-1.
-2.
-3.
-4.
 
 ========================================================================================================================================================
 ========================================================================================================================================================
