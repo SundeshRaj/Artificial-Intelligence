@@ -1,0 +1,9 @@
+The Evaluation Function:
+
+1. If the computer has 4 pieces in row (diagonally/horizontally/vertically) then add one point to the computer
+2. If the human has 4 pieces in a row (diagonally/horizontally/vertically) then add one point to the human
+3. Every additional piece added diagonally/horizontally/vertically to the existing connected 4 combination adds one additional point to the computer/human
+4. If the human has 3 pieces in a row (diagonally/horizontally/vertically) the computer plays to block the 4th move by adding it's piece
+5. Similarly if the computer has 3 pieces in a row and there is a possibility of a connected 4 the human can play the piece to block the connection
+
+The above mentioned eval function is followed by the code.
